@@ -1,27 +1,4 @@
 {
-	"name": "nonamez/laravel-settings",
-	"description": "Simple way to save settings in JSON for Laravel",
-	"license": "Beerware",
-	"authors": [
-		{
-			"name": "NoNameZ",
-			"email": "hello@nonamez.name"
-		}
-	],
-	"minimum-stability": "dev",
-	"require": {
-		"php": ">=5.3.0",
-		"illuminate/support": ">=4.1 <6.0"
-	},
-	"autoload": {
-        "classmap": [
-            "src/"
-        ]
-    }
-}
-
-
-{
     "name": "nonamez/:laravel-settings",
     "type": "library",
     "description": "Simple way to save settings in JSON for Laravel",
